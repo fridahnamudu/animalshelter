@@ -4,7 +4,8 @@
 #### By **FRIDAH NAMUDU**
 ## Description
 The purpose of this website is to display the available domestic animals and pets for adoption and care.The website also tells the adopter what is required of him to adopt a particular animal.Some of the animals available are displayed on the website.
-The link to the live site on Github Pages is ()
+The link to the live site on Github Pages is (https://fridahnamudu.github.io/animalshelter/
+Source)
 ## Setup/Installation Requirements
 * git clone (https://github.com/fridahnamudu/animalshelter.git)
 * fork github repo
